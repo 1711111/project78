@@ -1,0 +1,16 @@
+  button 
+  {
+    border-radius:20px;
+    background-color: red;
+    color: white;
+    border-color:white;
+    padding: 10px;
+    font-size:20px;
+    width: 100px;
+  }
+img
+{
+    width: 200px;
+    height: 300px;
+}
+  
